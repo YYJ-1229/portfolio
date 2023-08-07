@@ -1,7 +1,8 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 다양한 팀프로젝트 경험으로 원활한 소통이 가능하며 팀내 분위기를 이끄는 역할을 하고 있습니다.
+
+- 맡은 일은 최선을 다해 해결하는 
+**책임감과 집념** 
+을 가지고 있습니다.
+
+- 언제나 더 나은 코드, 효과적인 코드 진행을 하고자 **꾸준히 공부중**입니다.
+- **사용자의 경험**을 우선시 하는 프론트 개발자가 되고싶습니다.
