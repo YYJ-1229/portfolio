@@ -73,7 +73,7 @@
       "description": "익명의 사용자들과 함께 일기를 작성하는 교환일기 서비스",
       "repoUrl": "https://github.com/YYJ-1229/OpenDiary",
       "isTeam": false,
-      "period": ["2022. 11", "2023. 12"],
+      "period": ["2022. 11", "2022. 12"],
       "stack": ["JavaScript", "Node.js", "Docker", "Kubernetes", "Jenkins"]
     }
   ],
