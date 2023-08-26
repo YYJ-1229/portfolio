@@ -63,6 +63,7 @@
       "name": "Sun-in-Cloud",
       "description": "판매자와 3PL을 위한 물류관리 및 매칭, 마케팅 솔루션을 제공하는 WMS 시스템",
       "repoUrl": "https://github.com/Sun-in-Cloud",
+      "webUrl": "https://d2dzb2ehac3nk3.cloudfront.net/",
       "isTeam": true,
       "period": ["2023. 07", "2023. 08"],
       "stack": ["JavaScript", "HTML/CSS", "React.js", "TypeScript", "styled-components"]
