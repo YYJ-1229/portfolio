@@ -70,6 +70,16 @@
     },
     {
       "id": 6,
+      "name": "Next-eatmap",
+      "description": "서울시 음식점 데이터를 이용하여 음식점의 위치와 새로운 음식점을 추가하며 댓글로 의견을 나누는 서비스",
+      "repoUrl": "https://github.com/YYJ-1229/GimbobMap",
+      "webUrl": "https://gimbob-map.vercel.app",
+      "isTeam": true,
+      "period": ["2024. 01", "2024. 02"],
+      "stack": ["TypeScript", "Next-Auth", "Next.js", "React", "React-query", "TailWind"]
+    },
+    {
+      "id": 7,
       "name": "OpenDiary",
       "description": "익명의 사용자들과 함께 일기를 작성하는 교환일기 서비스",
       "repoUrl": "https://github.com/YYJ-1229/OpenDiary",
@@ -106,15 +116,15 @@
       "id": 1,
       "name": "신한DS - 금융 SW 아카데미",
       "period": ["2023. 02", "2023. 08"],
-      "description": "풀스택 과정과 DataBase를 공부하는 아카데미"
+      "description": "풀스택 과정과 데이터베이스를 공부하며 금융과 관련된 프로젝트를 진행하는 아카데미"
     }
   ],
 
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 790점",
-      "date": "2021. 08. 22",
+      "name": "TOEIC 805점",
+      "date": "2023. 12. 10",
       "organizer": "ETS"
     },
     {
